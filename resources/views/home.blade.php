@@ -30,6 +30,8 @@
     </nav>
 
     <div class="container">
+
+        <h2>HOME</h2>
         <div class="card">
             <h3>Purtroppo non c'è nulla da vedere qua, ritorna quando sarò in grado di fare un Hello Word! <br>
                 Nel frattempo puoi navigare per scopire 'chi siamo' e i nostri 'contatti'!
